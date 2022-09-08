@@ -1,0 +1,16 @@
+.Pantalla{
+    margin-top: 10px;
+    height: 75px;
+    width: 97%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: 50px;
+    color: white;
+    background-color: #202020;
+    margin: 5px solid #888;
+    border-radius: 25px;
+    border: 3px solid white;
+    font-size: 38px;
+    box-shadow: 2px 2px 5px -3px #1a1a22, -2px -2px 7px 3px #111114  ;
+}

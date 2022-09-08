@@ -1,0 +1,27 @@
+.butom-cont{
+  border: solid white 1px;
+ height: 73px;
+ width: 70px;
+ margin-top: 10px;
+ display: flex;
+ flex: 1 1;
+ justify-content: center;
+ align-items: center;
+ font-weight: bold;
+ font-size: 38px;
+ background-color: #1b1b32 ;
+ color: white;
+ border-radius: 25px;
+ margin: 4px;
+ cursor: pointer;
+ user-select: none;
+ top: 10px;
+ margin: 20px 10px;
+ box-shadow: 2px 2px 5px -3px #141434, -2px -2px 7px 3px #232347  ;
+}
+.operador {
+    background-color: coral;
+}
+.butom-cont:hover{
+  background-color: #161616;
+}
