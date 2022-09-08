@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CalculadoraBerto/static/css/main.ff0b34f5.css",
+    "main.js": "/CalculadoraBerto/static/js/main.3c109566.js",
+    "index.html": "/CalculadoraBerto/index.html",
+    "main.ff0b34f5.css.map": "/CalculadoraBerto/static/css/main.ff0b34f5.css.map",
+    "main.3c109566.js.map": "/CalculadoraBerto/static/js/main.3c109566.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0b34f5.css",
+    "static/js/main.3c109566.js"
+  ]
+}
